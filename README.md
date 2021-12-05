@@ -78,3 +78,8 @@ Tuve que ponerme en contacto con el creador de PLY y el afortunadamente se encue
 ### Conclusiones:
 Es un gran reto adptarse a todos estos cambios, sobre todo por que es la primera vez que uso python y además me estoy comenzando a adaptar a Github, si me llegué a trabar en el proceso y la verdad aprendí mucho, aprendí a utilizar las herramientas, a codificar en python y sobre todo a poder entender el analizador, ya que ahora tengo que ahcer el grande. En esta parte además quiero agregar que fue un gran reto reimaginar todo el procesos y tratar de adaptarse a lo que un analizador sintáctico debe de hacer, pero me gustó y logré reinventarme y sacar el trabajo adelante. Del analizador Semántico una vez que ya teníamos lo previo pues fue muy fácil implementarlo, por el tiempo y complicaciones propias del sistema, la documentacion y demás creo que se logró muy bien el objetivo, espero poder compartir este proyecto con el maestro y que sea de su agrado
 No hay que darse por vencido!!
+
+### Referencias:
+https://dreampuf.github.io/GraphvizOnline/
+https://cs.wmich.edu/~yang/teach/cs485/pl0/pl0grammar.txt?fbclid=IwAR1Zw9Fjy_3yNX8n03iEpAbqak9O9Lz_KKWYa3pGcw8pSC0NL03TNDywz50
+
