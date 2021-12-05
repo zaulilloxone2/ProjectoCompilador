@@ -121,10 +121,9 @@ def t_error(t):
 analizador = lex.lex()
 
 #analizador.input(cadena)
-
-# while True:
-# 	tok = analizador.token()
-# 	if not tok : break
-# 	print tok
+#while True:
+    #tok = analizador.token()
+    #if not tok : break
+#print (tok)
 
 
