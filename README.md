@@ -70,6 +70,18 @@ aqui hay un programa mal escrito y su error:
   
   ![image](https://github.com/zaulilloxone2/ProjectoCompilador/blob/ae4393e47da9ed1306676e9fd59cc3833c23be81/graphviz%20(3).png)
   
+  ### GENERACIÓN DE CÓDIGO iNTERMEDIO Y COPILANDO EL CÓDIGO:
+ La librería de Yacc tiene varios comandos interesantes y dentro de ellas hay una forma de convertir el parser a código de 3 vías. se uilizan dos nuevos archivos que descargué de su documentación y simplemente se añade a la entrada el programa que se recibe para ser transformado a código de 3 vías:
+ aqui está la función que lo pasa:
+ 
+ 
+ y así queda:
+ 
+ 
+ 
+ 
+ y ejecutado se verá así, cabe mencionar que la biblioteca te deja el lenguaje ensamblador de salida de MIPS ASSembly
+ 
 
 ### Problemas y Soluciones:
 La documentación fue para python 2.7 y se retuvo que rehacer el código en su totalidad por que las funciones cambiaron mucho con el paso de los años.
