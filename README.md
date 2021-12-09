@@ -71,17 +71,17 @@ aqui hay un programa mal escrito y su error:
   ![image](https://github.com/zaulilloxone2/ProjectoCompilador/blob/ae4393e47da9ed1306676e9fd59cc3833c23be81/graphviz%20(3).png)
   
   ### GENERACIÓN DE CÓDIGO iNTERMEDIO Y COPILANDO EL CÓDIGO:
- La librería de Yacc tiene varios comandos interesantes y dentro de ellas hay una forma de convertir el parser a código de 3 vías. se uilizan dos nuevos archivos que descargué de su documentación y simplemente se añade a la entrada el programa que se recibe para ser transformado a código de 3 vías:
+ La librería de Yacc tiene varios comandos interesantes y dentro de ellas hay una forma de convertir el parser a código de 3 vías. se uilizan dos nuevos archivos que descargué de su documentación y simplemente se añade a la entrada el programa que se recibe para ser transformado a código de 3 vías desde la tabla de simbolos:
  aqui está la función que lo pasa:
  
- 
+  ![image](https://github.com/zaulilloxone2/ProjectoCompilador/blob/0e9ba43ee762e0f9ca773801a005713a63207035/tabla%20de%20simbolos.png)
+  
  y así queda:
- 
- 
+  ![image](https://github.com/zaulilloxone2/ProjectoCompilador/blob/cd588958dbf1ccb57acb3fd5eb8caa43a9ccfeca/final.png)
  
  
  y ejecutado se verá así, cabe mencionar que la biblioteca te deja el lenguaje ensamblador de salida de MIPS ASSembly
- 
+ ![image](https://github.com/zaulilloxone2/ProjectoCompilador/blob/cd588958dbf1ccb57acb3fd5eb8caa43a9ccfeca/MIS%20corriendo.png)
 
 ### Problemas y Soluciones:
 La documentación fue para python 2.7 y se retuvo que rehacer el código en su totalidad por que las funciones cambiaron mucho con el paso de los años.
